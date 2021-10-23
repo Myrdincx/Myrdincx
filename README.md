@@ -17,7 +17,7 @@ Pronouns: He/Him
 
 Location: Oost-Vlaanderen, Belgium
 
-Tools: Visual Studio Code
+Tools: Visual Studio Code, USB-stick, ...
 
 OS: Windows, Debian, Arch, ...
 
