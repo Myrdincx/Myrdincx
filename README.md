@@ -9,7 +9,7 @@
 ```csharp
 Myrdincx@github
 -------------------------
-OS: Arch Linux x86_64
+OS: Windows, Debian, Arch, ...
 
 Shell: zsh 5.8
 
@@ -17,13 +17,12 @@ Pronouns: He/Him
 
 Location: Oost-Vlaanderen, Belgium
 
-Tools: Visual Studio Code, USB-stick, ...
+Tools: Visual Studio Code
 
-OS: Windows, Debian, Arch, ...
-
-Hobbies: Calling with friends, coding, listening to music
+Hobbies: Calling on Discord, playing the saxophone, learning and coding
 
 Discord: Myrdin#5161
+
 ```
  
 
