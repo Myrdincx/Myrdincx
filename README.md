@@ -17,7 +17,7 @@ Pronouns: He/Him
 
 Location: Oost-Vlaanderen, Belgium
 
-Tools: Visual Studio Code
+Tools: Visual Studio Code, USB-stick
 
 Hobbies: Calling on Discord, playing the saxophone, learning and coding
 
@@ -25,7 +25,7 @@ Discord: Myrdin#5161
 
 ```
 
-
+<br />
 
 ## About me
 
