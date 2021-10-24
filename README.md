@@ -38,8 +38,6 @@ In my free time I like to call with friends and play some games.
 
 <br />
 
-- [OS's](#-os-)
-
 ## My experiences
 
 ### OS's
