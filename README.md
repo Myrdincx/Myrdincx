@@ -31,7 +31,8 @@ Discord: Myrdin#5161
 
 I am Myrdin, a young developer and tech enthusiast.\
 I'm currently learning a lot more about coding and UNIX.\
-I'm mainly getting into Linux and ricing it.
+I'm mainly getting into Linux and ricing it.\
+You can contact me the easiest on Discord.
 
 
 ### Connect with me
