@@ -25,7 +25,7 @@ Discord: Myrdin#5161
 
 <br />
 
-## About me
+## 📱 About me
 
 I am Myrdin, a young developer and tech enthusiast.\
 I'm currently learning a lot more about coding and UNIX.\
@@ -40,7 +40,7 @@ In my free time I like to call with friends and play some games.
 
 ## My experiences
 
-### OS's
+### 💻 OS's
 *I have used a certain amount of OS's in the process of learning Linux and ricing Linux.*
 
 Current OS's | Experience
@@ -66,7 +66,7 @@ Phone System | Experience
 
 <br />
 
-### My experience with IDE's
+### 👩‍💻 My experience with IDE's
 *I have used a few IDE's in the past but liked VsCode the most*
 
 Current IDE | Experience
@@ -86,7 +86,7 @@ Used in the past | Experience
 <br />
 
 
-### My experience with languages
+### 👩‍💻 My experience with languages
 *I'm fairly new, I only have very basic knowledge about some of the following languages*
 
 Language | Experience
@@ -98,7 +98,7 @@ Language | Experience
 
 <br />
 
-### My experience with frameworks
+### 🚀 My experience with frameworks
 *I have very basic knowledge about frameworks, I used a few of them for certain purposes*
 
 Framework | Experience
@@ -111,6 +111,6 @@ Framework | Experience
 
 ---
 
-### Now Playing On Spotify 🎧
+### 🎧 Now Playing On Spotify 
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=i1yly8kh8edp57h78r4flk797&cover_image=true&theme=novatorem&bar_color=ff6347&bar_color_cover=false)](https://open.spotify.com/user/i1yly8kh8edp57h78r4flk797)
