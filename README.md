@@ -40,6 +40,12 @@ You can contact me the easiest on Discord.
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Myrdincx)
 
 ---
+## Languages, Tools and Software
+
+**Adding soon**
+
+
+---
 
 ### Now Playing On Spotify 🎧
 
