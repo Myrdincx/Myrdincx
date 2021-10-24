@@ -41,9 +41,9 @@ In my free time I like to call with friends and play some games.
 ## Menu [🔝](#ello-i-am-myrdin-welcome-to-my-github-profile-and-personal-portfolio-)
 
 - [💻 OS's](#-oss)
-- [👩‍💻 IDE's](#-my-experience-with-ides)
-- [👩‍💻 Languages](#-my-experience-with-languages)
-- [🚀 Frameworks](#-my-experience-with-frameworks)
+- [👩‍💻 IDE's](#-my-experience-with-ides-)
+- [👩‍💻 Languages](#-my-experience-with-languages-)
+- [🚀 Frameworks](#-my-experience-with-frameworks-)
 
 <br />
 
