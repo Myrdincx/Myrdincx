@@ -15,8 +15,6 @@ Shell: zsh 5.8
 
 Pronouns: He/Him
 
-Location: Oost-Vlaanderen, Belgium
-
 Tools: Visual Studio Code, USB-stick
 
 Hobbies: Calling on Discord, playing the saxophone, learning and coding
