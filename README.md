@@ -39,7 +39,7 @@ You can contact me the easiest on Discord.
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KVru2J7y57)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Myrdincx)
 
----
+
 ## Languages, Tools and Software
 
 **Adding soon**
