@@ -4,7 +4,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.pinimg.com/originals/2a/a6/55/2aa655a91b62c5c635e222cb6ac1b5c6.jpg" width="350" height="350" />
+<img align="left" src="https://i.pinimg.com/originals/2a/a6/55/2aa655a91b62c5c635e222cb6ac1b5c6.jpg" width="280" height="280" />
 
 ```csharp
 Myrdincx@github
