@@ -50,7 +50,7 @@ In my free time I like to call with friends and play some games.
 
 ## My experiences 
 
-### 💻 OS's [🔝](#menu-)
+### 💻 OS's [🔝](#-about-me)
 *I have used a certain amount of OS's in the process of learning Linux and ricing Linux.*
 
 Current OS's | Experience
@@ -76,7 +76,7 @@ Phone System | Experience
 
 <br />
 
-### 👩‍💻 My experience with IDE's [🔝](#menu-)
+### 👩‍💻 My experience with IDE's [🔝](#-about-me)
 *I have used a few IDE's in the past but liked VsCode the most*
 
 Current IDE | Experience
@@ -96,7 +96,7 @@ Used in the past | Experience
 <br />
 
 
-### 👩‍💻 My experience with languages [🔝](#menu-)
+### 👩‍💻 My experience with languages [🔝](#-about-me)
 *I'm fairly new, I only have very basic knowledge about some of the following languages*
 
 Language | Experience
@@ -108,7 +108,7 @@ Language | Experience
 
 <br />
 
-### 🚀 My experience with frameworks [🔝](#menu-)
+### 🚀 My experience with frameworks [🔝](#-about-me)
 *I have very basic knowledge about frameworks, I used a few of them for certain purposes*
 
 Framework | Experience
@@ -121,6 +121,6 @@ Framework | Experience
 
 ---
 
-### 🎧 Now Playing On Spotify [🔝](#menu-) 
+### 🎧 Now Playing On Spotify [🔝](#-about-me) 
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=i1yly8kh8edp57h78r4flk797&cover_image=true&theme=novatorem&bar_color=ff6347&bar_color_cover=false)](https://open.spotify.com/user/i1yly8kh8edp57h78r4flk797)
