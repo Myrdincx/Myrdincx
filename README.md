@@ -38,7 +38,7 @@ In my free time I like to call with friends and play some games.
 
 <br />
 
-## Menu 
+## Menu [🔝](#-about-me)
 
 - [💻 OS's](#-oss)
 - [👩‍💻 IDE's](#-my-experience-with-ides)
@@ -48,9 +48,9 @@ In my free time I like to call with friends and play some games.
 
 <br />
 
-## My experiences
+## My experiences 
 
-### 💻 OS's 
+### 💻 OS's [🔝](#menu)
 *I have used a certain amount of OS's in the process of learning Linux and ricing Linux.*
 
 Current OS's | Experience
@@ -76,7 +76,7 @@ Phone System | Experience
 
 <br />
 
-### 👩‍💻 My experience with IDE's
+### 👩‍💻 My experience with IDE's [🔝](#menu)
 *I have used a few IDE's in the past but liked VsCode the most*
 
 Current IDE | Experience
@@ -96,7 +96,7 @@ Used in the past | Experience
 <br />
 
 
-### 👩‍💻 My experience with languages
+### 👩‍💻 My experience with languages [🔝](#menu)
 *I'm fairly new, I only have very basic knowledge about some of the following languages*
 
 Language | Experience
@@ -108,7 +108,7 @@ Language | Experience
 
 <br />
 
-### 🚀 My experience with frameworks
+### 🚀 My experience with frameworks [🔝](#menu)
 *I have very basic knowledge about frameworks, I used a few of them for certain purposes*
 
 Framework | Experience
