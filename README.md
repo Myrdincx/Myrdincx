@@ -34,7 +34,6 @@ I'm currently learning a lot more about coding and UNIX.\
 I'm mainly getting into Linux and ricing it.\
 In my free time I like to call with friends and play some games.
 
-
 ### Connect with me
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KVru2J7y57)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Myrdincx)
