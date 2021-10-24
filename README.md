@@ -45,6 +45,15 @@ In my free time I like to call with friends and play some games.
 - [👩‍💻 Languages](#-my-experience-with-languages)
 - [🚀 Frameworks](#-my-experience-with-frameworks)
 
+<br />
+
+## My dotfiles
+*These are the dotfiles I currently use, the original creator has been linked in the repo.\
+All I did was changing a few shortcuts and switch to compton instead of Rofi*
+
+[![Dotfiles](https://img.shields.io/badge/Dotfiles-ff781f?style=for-the-badge&logo=Files&logoColor=white)](https://github.com/Myrdincx/dotfiles)
+
+**Clicking the icon above will redirect you to my dotfiles repository.**
 
 <br />
 
