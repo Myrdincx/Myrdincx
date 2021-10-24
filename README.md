@@ -46,6 +46,7 @@ In my free time I like to call with friends and play some games.
 ## My experiences
 
 ### OS's
+*I have used a certain amount of OS's in the process of learning Linux and ricing Linux.*
 
 Current OS's | Experience
 ------------ | -------------
@@ -71,6 +72,7 @@ Phone System | Experience
 <br />
 
 ### My experience with IDE's
+*I have used a few IDE's in the past but liked VsCode the most*
 
 Current IDE | Experience
 ------------ | -------------
@@ -90,7 +92,7 @@ Used in the past | Experience
 
 
 ### My experience with languages
-*I'm fairly new, I only have little knowledge about some of the following languages*
+*I'm fairly new, I only have very basic knowledge about some of the following languages*
 
 Language | Experience
 ------------ | -------------
@@ -102,6 +104,7 @@ Language | Experience
 <br />
 
 ### My experience with frameworks
+*I have very basic knowledge about frameworks, I used a few of them for certain purposes*
 
 Framework | Experience
 ------------ | -------------
