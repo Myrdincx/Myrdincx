@@ -28,7 +28,7 @@ Discord: Myrdin#5161
 ## 📱 About me
 
 I am Myrdin, a young developer and tech enthusiast.\
-I'm currently learning a lot more about coding and UNIX.\
+I currently am working on a small keyboard business (togehter with a friend), Im also learning a lot more about coding and UNIX.\
 I'm mainly getting into Linux and ricing it.\
 In my free time I like to call with friends and play some games.
 
