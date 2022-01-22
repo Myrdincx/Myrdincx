@@ -110,10 +110,10 @@ Used in the past | Experience
 
 Language | Experience
 ------------ | -------------
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | Basic understanding / still learning / used for buildingwebsite
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | Basic understanding / still learning / used for building website
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> | Basic understanding / still learning / used for building website
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> | Basic understanding / still learning / used for building website and discord bot
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> | Basic understanding / using in AwesomeWM to rice
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> | Basic understanding 
 
 <br />
 
