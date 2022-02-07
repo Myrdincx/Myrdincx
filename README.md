@@ -35,12 +35,14 @@ In my free time I like to call with friends and play some games.
 
 
 ### Connect with me
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KVru2J7y57)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/300300616335622154)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Myrdincx)
+[![Discord Server](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KVru2J7y57)
 
 ### Current Projects
 
-- Starting a small keyboard business [Crescent Keys](https://crescentkeys.github.io/) 
+- Making a personal portfolio
+- Making models for Crescent Keys
 - Getting more coding knowledge
 
 
@@ -55,9 +57,21 @@ In my free time I like to call with friends and play some games.
 
 <br />
 
+## ☾rescent Keys
+*Crescent Keys is a starting and small keyboard business.*
+
+- Currently working on
+  - Making the [website](https://crescentkeys.github.io)
+  - Making models
+  - Gathering keyboard enthusiasts
+
+[![Website Code](https://img.shields.io/badge/CrescentKeysRepo-ff781f?style=for-the-badge&logo=Files&logoColor=white)](https://github.com/CrescentKeys/CrescentKeys.github.io)
+[![Crescent Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/k9YyY2zFTV)
+
+*In case you find bugs, please report them to me on Discord.*
+
+
 ## My dotfiles
-*These are the dotfiles I currently use, the original creator has been linked in the repo.\
-All I did was changing a few shortcuts and switch to compton instead of Rofi*
 
 [![Dotfiles](https://img.shields.io/badge/Dotfiles-ff781f?style=for-the-badge&logo=Files&logoColor=white)](https://github.com/Myrdincx/dotfiles)
 
@@ -104,7 +118,7 @@ All I did was changing a few shortcuts and switch to compton instead of Rofi*
 <br />
 
 ### 🚀 My experience with frameworks [🔝](#-about-me)
-*I have very basic knowledge about frameworks, I used a few of them for certain purposes*
+*I have very basic knowledge about frameworks, I used a few of them to work on small projects*
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> 
 
