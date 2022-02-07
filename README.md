@@ -15,7 +15,7 @@ Shell: zsh 5.8
 
 Pronouns: He/Him
 
-Tools: Visual Studio Code, USB-stick
+Tools: Visual Studio Code, Web browser
 
 Hobbies: Calling on Discord, playing the saxophone, learning and coding
 
@@ -29,12 +29,20 @@ Discord: Myrdin#5161
 
 I am Myrdin, a young developer and tech enthusiast.\
 I currently am working on a small keyboard business (togehter with a friend), Im also learning a lot more about coding and UNIX.\
-I'm mainly getting into Linux and ricing it.\
 In my free time I like to call with friends and play some games.
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/300300616335622154?idleMessage=Most%20likely%20doing%20something%20else...)](https://discord.com/users/300300616335622154)
+
 
 ### Connect with me
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KVru2J7y57)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Myrdincx)
+
+### Current Projects
+
+- Starting a small keyboard business [Crescent Keys](https://crescentkeys.github.io/) 
+- Getting more coding knowledge
+
 
 <br />
 
@@ -60,71 +68,45 @@ All I did was changing a few shortcuts and switch to compton instead of Rofi*
 ## My experiences 
 
 ### 💻 OS's [🔝](#-about-me)
-*I have used a certain amount of OS's in the process of learning Linux and ricing Linux.*
 
-Current OS's | Experience
------------- | -------------
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> | Using Windows on a daily basis
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /> | Using Debian in a VM (Mainly for ricing)
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /> | Using Arch in a VM (Mainly for ricing)
 
- 
-Used in the past | Experience
------------- | -------------
-<img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" /> | Used Manjaro in the past on a Laptop/ in a VM
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> | Ubuntu was my first OS
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> | Used in the past, to learn more about Linux
-<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /> | Used in the past in a VM to play around with
-<img src="https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white" /> | Used in the past in a VM 
-<img src="https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white" /> | Used in the past in a VM (Mainly for ricing)
-<img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" /> | Used in the past in a VM / on a Laptop
+### Current OS's
 
-Phone System | Experience
------------- | -------------
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> | Using as Main Phone OS
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" /> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /> 
+
+### OS's used in the past 
+
+<img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /> <img src="https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white" /> <img src="https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" /> 
+
+#### Mobile Phone OS
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> 
 
 <br />
 
 ### 👩‍💻 My experience with IDE's [🔝](#-about-me)
-*I have used a few IDE's in the past but liked VsCode the most*
 
-Current IDE | Experience
------------- | -------------
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> | VSCODE as main IDE
+### Current IDE
 
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
 
-Used in the past | Experience
------------- | -------------
-<img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" /> | Used in the past
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" /> | Used in the past
-<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" /> | Used in the past
-<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" /> | Used in the past
+### IDE's used in the past
 
-
+<img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" /> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" /> <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" /> 
 
 <br />
 
 
 ### 👩‍💻 My experience with languages [🔝](#-about-me)
-*I'm fairly new, I only have very basic knowledge about some of the following languages*
 
-Language | Experience
------------- | -------------
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | Basic understanding / still learning / used for building website
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> | Basic understanding / still learning / used for building website
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> | Basic understanding / still learning / used for building website and discord bot
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> | Basic understanding 
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /> 
 
 <br />
 
 ### 🚀 My experience with frameworks [🔝](#-about-me)
 *I have very basic knowledge about frameworks, I used a few of them for certain purposes*
 
-Framework | Experience
------------- | -------------
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> | Basic understanding / used for Discord bot
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> | Little understanding / used for building E-commerce website
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> | Basic understanding / used for homeserver
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> 
 
 <br />
 
