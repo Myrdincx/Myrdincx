@@ -37,7 +37,7 @@ In my free time I like to call with friends and play some games.
 ### Connect with me
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/300300616335622154)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Myrdincx)
-[![Discord Server](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KVru2J7y57)
+[![Discord Server](https://img.shields.io/badge/Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KVru2J7y57)
 
 ### Current Projects
 
