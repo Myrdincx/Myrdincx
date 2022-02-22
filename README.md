@@ -1,29 +1,13 @@
 ### Ello, I am Myrdin! Welcome to my Github profile and personal portfolio! <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="30px">
 
-```zsh
-> neofetch
-```
+<p align="center">
+<img src="https://avatars.githubusercontent.com/u/69009601?v=4" alt="avatar" style="border-radius:50%;" width="250"/>
+</p>
 
-<img align="left" src="https://i.pinimg.com/originals/fe/6d/b4/fe6db44abd8df5bac889c3c25dd32436.jpg" width="280" height="280" />
+### A young developer and tech enthusiast.
 
-```csharp
-Myrdincx@github
--------------------------
-OS: Windows, Debian, Arch, ...
+---
 
-Shell: zsh 5.8
-
-Pronouns: He/Him
-
-Tools: Visual Studio Code, Web browser
-
-Hobbies: Calling on Discord, playing the saxophone, learning and coding
-
-Discord: Myrdin#5161
-
-```
-
-<br />
 
 ## 📱 About me
 
