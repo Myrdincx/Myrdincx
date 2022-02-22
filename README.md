@@ -1,10 +1,8 @@
-### Ello, I am Myrdin! Welcome to my Github profile and personal portfolio! <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="30px">
-
 <p align="center">
 <img src="image.png" alt="avatar" width="250" height="auto"/>
 </p>
 
-
+### Ello, I am Myrdin! Welcome to my Github profile and personal portfolio! <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="30px">
 
 
 ## 📱 About me
