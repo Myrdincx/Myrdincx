@@ -10,7 +10,7 @@
 ## 📱 About me
 
 I am Myrdin, a young developer and tech enthusiast.\
-I currently am working on a small keyboard business (togehter with a friend), Im also learning a lot more about coding and UNIX.\
+Im am currently learning a lot more about coding and UNIX.\
 In my free time I like to call with friends and play some games.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/300300616335622154?idleMessage=Most%20likely%20doing%20something%20else...)](https://discord.com/users/300300616335622154)
@@ -24,7 +24,6 @@ In my free time I like to call with friends and play some games.
 ### Current Projects
 
 - Making a personal portfolio
-- Making models for Crescent Keys
 - Getting more coding knowledge
 
 
@@ -38,20 +37,6 @@ In my free time I like to call with friends and play some games.
 - [🚀 Frameworks](#-frameworks-)
 
 <br />
-
-## ☾rescent Keys
-*Crescent Keys is a starting and small keyboard business.*
-
-- Currently working on
-  - Making the [website](https://crescentkeys.github.io)
-  - Making models
-  - Gathering keyboard enthusiasts
-
-[![Website Code](https://img.shields.io/badge/CrescentKeysRepo-ff781f?style=for-the-badge&logo=Files&logoColor=white)](https://github.com/CrescentKeys/CrescentKeys.github.io)
-[![Crescent Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/k9YyY2zFTV)
-
-*In case you find bugs, please report them to me on Discord.*
-
 
 ## My dotfiles
 
