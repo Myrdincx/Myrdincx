@@ -3,8 +3,7 @@
 </p>
 
 
-### Ello, I am Myrdin! Welcome to my Github profile and personal portfolio! <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="25px">
-
+### Ello, I am Myrdin! Welcome to my Github profile and personal portfolio!
 <br />
 
 ## 📱 About me
