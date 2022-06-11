@@ -2,7 +2,7 @@
 <img src="image.png" alt="avatar" width="250" height="auto"/>
 </p>
 
-<div align="center">
+
 ### Ello, I am Myrdin! Welcome to my Github profile and personal portfolio!
 <br />
 
@@ -95,4 +95,4 @@ In my free time I like to call with friends and play some games.
 ### 🎧 Now Playing On Spotify [🔝](#-about-me) 
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=i1yly8kh8edp57h78r4flk797&cover_image=true&theme=novatorem&bar_color=ff6347&bar_color_cover=false)](https://open.spotify.com/user/i1yly8kh8edp57h78r4flk797)
-</div>
+
