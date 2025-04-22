@@ -22,6 +22,9 @@ Eldiad is an unfinished conlang based on a few Western- and Northern-European la
 You can find more information by clicking [here](https://myrdin.cx/projects/Eldiad) or by clicking on the title!
 
 ### [myrdin.cx](https://myrdin.cx)
+This is my personal website that I am currently using! :)
+
+### [notes.myrdin.cx](https://notes.myrdin.cx)
 
 This repository contains the source code for my personal website, built using [Quartz](https://quartz.jzhao.xyz/). \
 On there I share my thoughts, projects and some articles (mainly on linguistics). \
