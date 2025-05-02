@@ -16,10 +16,10 @@ To see a complete list of where you can find me online along with the relevant l
 
 ## ↟ Projects ↟
 
-### [Eldiad](https://myrdin.cx/projects/Eldiad)
+### [Eldiad](https://myrdin.cx/blog.html?post=eldiad)
 
 Eldiad is an unfinished conlang based on a few Western- and Northern-European languages. \
-You can find more information by clicking [here](https://myrdin.cx/projects/Eldiad) or by clicking on the title!
+You can find more information by clicking [here](https://myrdin.cx/blog.html?post=eldiad) or by clicking on the title!
 
 ### [myrdin.cx](https://myrdin.cx)
 This is my personal website that I am currently using! :)
