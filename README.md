@@ -11,7 +11,7 @@ If you have any suggestions, questions, or just want to connect, feel free to re
 - **Email**: `contact (at) myrdin (dot) cx`
 
 You can also connect with me across different platforms. \
-To see a complete list of where you can find me online along with the relevant links, feel free to check out my [contact page](https://myrdin.cx/About-Contact/contact).
+To see a complete list of where you can find me online along with the relevant links, feel free to check out my [contact page](https://myrdin.cx/card).
 
 
 ## ↟ Projects ↟
