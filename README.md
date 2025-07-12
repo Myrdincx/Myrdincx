@@ -16,26 +16,27 @@ To see a complete list of where you can find me online along with the relevant l
 
 ## ↟ Projects ↟
 
+### [myrdin.cx](https://myrdin.cx)
+This is my personal website that I am currently using! :)
+- 🔗 [Visit site](https://myrdin.cx)  
+- 🛠 [Source code](https://github.com/Myrdincx/myrdin.cx)
+
+
+
+### [notes.myrdin.cx](https://notes.myrdin.cx)
+An older notes site built with [Quartz](https://quartz.jzhao.xyz/), where I’ve shared thoughts, linguistics articles, and small projects.  
+- 🔗 [Visit site](https://notes.myrdin.cx)  
+- 🛠 [Source code](https://github.com/Myrdincx/notes.myrdin.cx)
+
+### [v1.myrdin.cx](https://v1.myrdin.cx)
+An archive of my very first personal website. It’s still online and accessible here:  
+- 🔗 [Visit site](https://v1.myrdin.cx)  
+- 🛠 [Source code](https://github.com/Myrdincx/v1.myrdin.cx)
+
 ### [Eldiad](https://myrdin.cx/blog.html?post=eldiad)
 
 Eldiad is an unfinished conlang based on a few Western- and Northern-European languages. \
 You can find more information by clicking [here](https://myrdin.cx/blog.html?post=eldiad) or by clicking on the title!
-
-### [myrdin.cx](https://myrdin.cx)
-This is my personal website that I am currently using! :)
-
-### [notes.myrdin.cx](https://notes.myrdin.cx)
-
-This repository contains the source code for my personal website, built using [Quartz](https://quartz.jzhao.xyz/). \
-On there I share my thoughts, projects and some articles (mainly on linguistics). \
-Feel free to explore the [source code](https://github.com/Myrdincx/myrdin.cx) or visit the live site at [myrdin.cx](https://myrdin.cx/).
-
-### [old.myrdin.cx](https://old.myrdin.cx)
-
-An archive of my previous personal website, which you can still visit at [old.myrdin.cx](https://old.myrdin.cx). \
-The [source code](https://github.com/Myrdincx/old.myrdin.cx) should still be up on github!
-
-
 
 ## ↟ Guestbook ↟
 
