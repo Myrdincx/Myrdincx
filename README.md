@@ -21,7 +21,10 @@ This is my personal website that I am currently using! :)
 - 🔗 [Visit site](https://myrdin.cx)  
 - 🛠 [Source code](https://github.com/Myrdincx/myrdin.cx)
 
-
+### [v2.myrdin.cx](https://v2.myrdin.cx)
+This the second version of my website, which I am no longer using.
+- 🔗 [Visit site](https://v2.myrdin.cx)  
+- 🛠 [Source code](https://github.com/Myrdincx/v2.myrdin.cx)
 
 ### [notes.myrdin.cx](https://notes.myrdin.cx)
 An older notes site built with [Quartz](https://quartz.jzhao.xyz/), where I’ve shared thoughts, linguistics articles, and small projects.  
