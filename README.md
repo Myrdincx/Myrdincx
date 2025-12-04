@@ -22,12 +22,12 @@ This is my personal website that I am currently using! :)
 - 🛠 [Source code](https://github.com/Myrdincx/myrdin.cx)
 
 ### [v3.myrdin.cx](https://notes.myrdin.cx)
-This is the third version of my website, built with [Quartz](https://github.com/jackyzha0/quartz). 
+This the third version of my website, which is no longer in use.
 - 🔗 [Visit site](https://v3.myrdin.cx)  
 - 🛠 [Source code](https://github.com/Myrdincx/v3.myrdin.cx)
 
 ### [v2.myrdin.cx](https://v2.myrdin.cx)
-This the second version of my website, which I am no longer using.
+This is the second version of my website, built with [Quartz](https://github.com/jackyzha0/quartz). It is no longerin use.
 - 🔗 [Visit site](https://v2.myrdin.cx)  
 - 🛠 [Source code](https://github.com/Myrdincx/v2.myrdin.cx)
 
