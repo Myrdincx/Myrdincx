@@ -21,15 +21,15 @@ This is my personal website that I am currently using! :)
 - 🔗 [Visit site](https://myrdin.cx)  
 - 🛠 [Source code](https://github.com/Myrdincx/myrdin.cx)
 
+### [v3.myrdin.cx](https://notes.myrdin.cx)
+This is the third version of my website, built with [Quartz](https://github.com/jackyzha0/quartz). 
+- 🔗 [Visit site](https://v3.myrdin.cx)  
+- 🛠 [Source code](https://github.com/Myrdincx/v3.myrdin.cx)
+
 ### [v2.myrdin.cx](https://v2.myrdin.cx)
 This the second version of my website, which I am no longer using.
 - 🔗 [Visit site](https://v2.myrdin.cx)  
 - 🛠 [Source code](https://github.com/Myrdincx/v2.myrdin.cx)
-
-### [notes.myrdin.cx](https://notes.myrdin.cx)
-An older notes site built with [Quartz](https://quartz.jzhao.xyz/), where I’ve shared thoughts, linguistics articles, and small projects.  
-- 🔗 [Visit site](https://notes.myrdin.cx)  
-- 🛠 [Source code](https://github.com/Myrdincx/notes.myrdin.cx)
 
 ### [v1.myrdin.cx](https://v1.myrdin.cx)
 An archive of my very first personal website. It’s still online and accessible here:  
